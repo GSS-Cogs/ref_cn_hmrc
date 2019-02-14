@@ -1,0 +1,247 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix xkos: <http://rdf-vocabulary.ddialliance.org/xkos#> .
+@prefix ec: <https://trade.ec.europa.eu/def/cn#> .
+
+<https://trade.ec.europa.eu/def/cn_2012#cn8_99209900>
+    a skos:Concept ;
+    rdfs:label "Parcel post"@en ;
+    skos:broader <https://trade.ec.europa.eu/def/cn_2012#section_XVIII> ;
+    skos:inScheme <https://trade.ec.europa.eu/def/cn_2012> ;
+    skos:notation "9920 99 00"^^ec:HS6 .
+
+<https://trade.ec.europa.eu/def/cn_2012#cn8_99309900>
+    a skos:Concept ;
+    rdfs:label "Goods delivered to vessels and aircraft - Goods from other Chapters"@en ;
+    skos:broader <https://trade.ec.europa.eu/def/cn_2012#section_XVIII> ;
+    skos:inScheme <https://trade.ec.europa.eu/def/cn_2012> ;
+    skos:notation "9930 99 00"^^ec:HS6 .
+
+<https://trade.ec.europa.eu/def/cn_2012#cn8_99312400>
+    a skos:Concept ;
+    rdfs:label "Goods delivered to and from offshore installations - Goods from Chapters 1 to 24"@en ;
+    skos:broader <https://trade.ec.europa.eu/def/cn_2012#section_XVIII> ;
+    skos:inScheme <https://trade.ec.europa.eu/def/cn_2012> ;
+    skos:notation "9931 24 00"^^ec:HS6 .
+
+<https://trade.ec.europa.eu/def/cn_2012#cn8_99312700>
+    a skos:Concept ;
+    rdfs:label "Goods delivered to and from offshore installations - Goods from Chapter 27"@en ;
+    skos:broader <https://trade.ec.europa.eu/def/cn_2012#section_XVIII> ;
+    skos:inScheme <https://trade.ec.europa.eu/def/cn_2012> ;
+    skos:notation "9931 27 00"^^ec:HS6 .
+
+<https://trade.ec.europa.eu/def/cn_2012#cn8_99319900>
+    a skos:Concept ;
+    rdfs:label "Goods delivered to and from offshore installations - Goods from other Chapters"@en ;
+    skos:broader <https://trade.ec.europa.eu/def/cn_2012#section_XVIII> ;
+    skos:inScheme <https://trade.ec.europa.eu/def/cn_2012> ;
+    skos:notation "9931 99 00"^^ec:HS6 .
+
+<https://trade.ec.europa.eu/def/cn_2013#cn8_99209900>
+    a skos:Concept ;
+    rdfs:label "Parcel post"@en ;
+    skos:broader <https://trade.ec.europa.eu/def/cn_2013#section_XVIII> ;
+    skos:inScheme <https://trade.ec.europa.eu/def/cn_2013> ;
+    skos:notation "9920 99 00"^^ec:HS6 .
+
+<https://trade.ec.europa.eu/def/cn_2013#cn8_99309900>
+    a skos:Concept ;
+    rdfs:label "Goods delivered to vessels and aircraft - Goods from other Chapters"@en ;
+    skos:broader <https://trade.ec.europa.eu/def/cn_2013#section_XVIII> ;
+    skos:inScheme <https://trade.ec.europa.eu/def/cn_2013> ;
+    skos:notation "9930 99 00"^^ec:HS6 .
+
+<https://trade.ec.europa.eu/def/cn_2014#cn8_99209900>
+    a skos:Concept ;
+    rdfs:label "Parcel post"@en ;
+    skos:broader <https://trade.ec.europa.eu/def/cn_2014#section_XVIII> ;
+    skos:inScheme <https://trade.ec.europa.eu/def/cn_2014> ;
+    skos:notation "9920 99 00"^^ec:HS6 .
+
+<https://trade.ec.europa.eu/def/cn_2014#cn8_99302400>
+    a skos:Concept ;
+    rdfs:label "Goods delivered to vessels and aircraft - Goods from Chapters 1 to 24"@en ;
+    skos:broader <https://trade.ec.europa.eu/def/cn_2014#section_XVIII> ;
+    skos:inScheme <https://trade.ec.europa.eu/def/cn_2014> ;
+    skos:notation "9930 24 00"^^ec:HS6 .
+
+<https://trade.ec.europa.eu/def/cn_2014#cn8_99309900>
+    a skos:Concept ;
+    rdfs:label "Goods delivered to vessels and aircraft - Goods from other Chapters"@en ;
+    skos:broader <https://trade.ec.europa.eu/def/cn_2014#section_XVIII> ;
+    skos:inScheme <https://trade.ec.europa.eu/def/cn_2014> ;
+    skos:notation "9930 99 00"^^ec:HS6 .
+
+<https://trade.ec.europa.eu/def/cn_2014#cn8_99319900>
+    a skos:Concept ;
+    rdfs:label "Goods delivered to and from offshore installations - Goods from other Chapters"@en ;
+    skos:broader <https://trade.ec.europa.eu/def/cn_2014#section_XVIII> ;
+    skos:inScheme <https://trade.ec.europa.eu/def/cn_2014> ;
+    skos:notation "9931 99 00"^^ec:HS6 .
+
+<https://trade.ec.europa.eu/def/cn_2015#cn8_99209900>
+    a skos:Concept ;
+    rdfs:label "Parcel post"@en ;
+    skos:broader <https://trade.ec.europa.eu/def/cn_2015#section_XVIII> ;
+    skos:inScheme <https://trade.ec.europa.eu/def/cn_2015> ;
+    skos:notation "9920 99 00"^^ec:HS6 .
+
+<https://trade.ec.europa.eu/def/cn_2015#cn8_99309900>
+    a skos:Concept ;
+    rdfs:label "Goods delivered to vessels and aircraft - Goods from other Chapters"@en ;
+    skos:broader <https://trade.ec.europa.eu/def/cn_2015#section_XVIII> ;
+    skos:inScheme <https://trade.ec.europa.eu/def/cn_2015> ;
+    skos:notation "9930 99 00"^^ec:HS6 .
+
+<https://trade.ec.europa.eu/def/cn_2016#cn8_99209900>
+    a skos:Concept ;
+    rdfs:label "Parcel post"@en ;
+    skos:broader <https://trade.ec.europa.eu/def/cn_2016#section_XVIII> ;
+    skos:inScheme <https://trade.ec.europa.eu/def/cn_2016> ;
+    skos:notation "9920 99 00"^^ec:HS6 .
+
+<https://trade.ec.europa.eu/def/cn_2016#cn8_99309900>
+    a skos:Concept ;
+    rdfs:label "Goods delivered to vessels and aircraft - Goods from other Chapters"@en ;
+    skos:broader <https://trade.ec.europa.eu/def/cn_2016#section_XVIII> ;
+    skos:inScheme <https://trade.ec.europa.eu/def/cn_2016> ;
+    skos:notation "9930 99 00"^^ec:HS6 .
+
+<https://trade.ec.europa.eu/def/cn_2012#cn8_99050000>
+    a skos:Concept ;
+    rdfs:label "Personal property belonging to natural persons transferring their normal place of residence"@en ;
+    skos:broader <https://trade.ec.europa.eu/def/cn_2012#section_XVIII> ;
+    skos:inScheme <https://trade.ec.europa.eu/def/cn_2012> ;
+    skos:notation "9905 00 00"^^ec:HS6 .
+
+<https://trade.ec.europa.eu/def/cn_2014#cn8_99050000>
+    a skos:Concept ;
+    rdfs:label "Personal property belonging to natural persons transferring their normal place of residence"@en ;
+    skos:broader <https://trade.ec.europa.eu/def/cn_2014#section_XVIII> ;
+    skos:inScheme <https://trade.ec.europa.eu/def/cn_2014> ;
+    skos:notation "9905 00 00"^^ec:HS6 .
+
+<https://trade.ec.europa.eu/def/cn_2013#cn8_99050000>
+    a skos:Concept ;
+    rdfs:label "Personal property belonging to natural persons transferring their normal place of residence"@en ;
+    skos:broader <https://trade.ec.europa.eu/def/cn_2013#section_XVIII> ;
+    skos:inScheme <https://trade.ec.europa.eu/def/cn_2013> ;
+    skos:notation "9905 00 00"^^ec:HS6 .
+
+<https://trade.ec.europa.eu/def/cn_2012#cn8_99302400>
+    a skos:Concept ;
+    rdfs:label "Goods delivered to vessels and aircraft - Goods from Chapters 1 to 24"@en ;
+    skos:broader <https://trade.ec.europa.eu/def/cn_2012#section_XVIII> ;
+    skos:inScheme <https://trade.ec.europa.eu/def/cn_2012> ;
+    skos:notation "9930 24 00"^^ec:HS6 .
+
+<https://trade.ec.europa.eu/def/cn_2015#cn8_99302400>
+    a skos:Concept ;
+    rdfs:label "Goods delivered to vessels and aircraft - Goods from Chapters 1 to 24"@en ;
+    skos:broader <https://trade.ec.europa.eu/def/cn_2015#section_XVIII> ;
+    skos:inScheme <https://trade.ec.europa.eu/def/cn_2015> ;
+    skos:notation "9930 24 00"^^ec:HS6 .
+
+<https://trade.ec.europa.eu/def/cn_2016#cn8_99302400>
+    a skos:Concept ;
+    rdfs:label "Goods delivered to vessels and aircraft - Goods from Chapters 1 to 24"@en ;
+    skos:broader <https://trade.ec.europa.eu/def/cn_2016#section_XVIII> ;
+    skos:inScheme <https://trade.ec.europa.eu/def/cn_2016> ;
+    skos:notation "9930 24 00"^^ec:HS6 .
+
+<https://trade.ec.europa.eu/def/cn_2012#cn8_99302700>
+    a skos:Concept ;
+    rdfs:label "Goods delivered to vessels and aircraft - Goods from Chapter 27"@en ;
+    skos:broader <https://trade.ec.europa.eu/def/cn_2012#section_XVIII> ;
+    skos:inScheme <https://trade.ec.europa.eu/def/cn_2012> ;
+    skos:notation "9930 27 00"^^ec:HS6 .
+
+<https://trade.ec.europa.eu/def/cn_2013#cn8_99302400>
+    a skos:Concept ;
+    rdfs:label "Goods delivered to vessels and aircraft - Goods from Chapters 1 to 24"@en ;
+    skos:broader <https://trade.ec.europa.eu/def/cn_2013#section_XVIII> ;
+    skos:inScheme <https://trade.ec.europa.eu/def/cn_2013> ;
+    skos:notation "9930 24 00"^^ec:HS6 .
+
+<https://trade.ec.europa.eu/def/cn_2013#cn8_99302700>
+    a skos:Concept ;
+    rdfs:label "Goods delivered to vessels and aircraft - Goods from Chapter 27"@en ;
+    skos:broader <https://trade.ec.europa.eu/def/cn_2013#section_XVIII> ;
+    skos:inScheme <https://trade.ec.europa.eu/def/cn_2013> ;
+    skos:notation "9930 27 00"^^ec:HS6 .
+
+<https://trade.ec.europa.eu/def/cn_2014#cn8_98809000>
+    a skos:Concept ;
+    rdfs:label "Component parts of complete industrial plant in the framework of external trade"@en ;
+    skos:broader <https://trade.ec.europa.eu/def/cn_2014#section_XVIII> ;
+    skos:inScheme <https://trade.ec.europa.eu/def/cn_2014> ;
+    skos:notation "9880 90 00"^^ec:HS6 .
+
+<https://trade.ec.europa.eu/def/cn_2016#cn8_98808500>
+    a skos:Concept ;
+    rdfs:label "Component parts of complete industrial plant in the framework of external trade"@en ;
+    skos:broader <https://trade.ec.europa.eu/def/cn_2016#section_XVIII> ;
+    skos:inScheme <https://trade.ec.europa.eu/def/cn_2016> ;
+    skos:notation "9880 85 00"^^ec:HS6 .
+
+<https://trade.ec.europa.eu/def/cn_2015#cn8_99319900>
+    a skos:Concept ;
+    rdfs:label "Goods delivered to and from offshore installations - Goods from other Chapters"@en ;
+    skos:broader <https://trade.ec.europa.eu/def/cn_2015#section_XVIII> ;
+    skos:inScheme <https://trade.ec.europa.eu/def/cn_2015> ;
+    skos:notation "9931 99 00"^^ec:HS6 .
+
+<https://trade.ec.europa.eu/def/cn_2015#cn8_98808400>
+    a skos:Concept ;
+    rdfs:label "Component parts of complete industrial plant in the framework of external trade"@en ;
+    skos:broader <https://trade.ec.europa.eu/def/cn_2015#section_XVIII> ;
+    skos:inScheme <https://trade.ec.europa.eu/def/cn_2015> ;
+    skos:notation "9880 84 00"^^ec:HS6 .
+
+<https://trade.ec.europa.eu/def/cn_2012#cn8_99190000>
+    a skos:Concept ;
+    rdfs:label "The following goods, other than those mentioned above:- trousseaux and household effects belonging to a person transferring his or her normal place of residence on the occasion of his or her marriage; personal property acquired by inheritance;- school outfits, educational materials and related household effects;- coffins containing bodies, funerary urns containing the ashes of deceased persons and ornamental funerary articles;- goods for charitable or philanthropic organisations and goods for the benefit of disaster victims."@en ;
+    skos:broader <https://trade.ec.europa.eu/def/cn_2012#section_XVIII> ;
+    skos:inScheme <https://trade.ec.europa.eu/def/cn_2012> ;
+    skos:notation "9919 00 00"^^ec:HS6 .
+
+<https://trade.ec.europa.eu/def/cn_2013#cn8_99500000>
+    a skos:Concept ;
+    rdfs:label "Low value consignments"@en ;
+    skos:broader <https://trade.ec.europa.eu/def/cn_2013#section_XVIII> ;
+    skos:inScheme <https://trade.ec.europa.eu/def/cn_2013> ;
+    skos:notation "9950 00 00"^^ec:HS6 .
+
+<https://trade.ec.europa.eu/def/cn_2013#cn8_99312700>
+    a skos:Concept ;
+    rdfs:label "Goods delivered to and from offshore installations - Goods from Chapter 27"@en ;
+    skos:broader <https://trade.ec.europa.eu/def/cn_2013#section_XVIII> ;
+    skos:inScheme <https://trade.ec.europa.eu/def/cn_2013> ;
+    skos:notation "9931 27 00"^^ec:HS6 .
+
+<https://trade.ec.europa.eu/def/cn_2012#cn8_99500000>
+    a skos:Concept ;
+    rdfs:label "Low value consignments"@en ;
+    skos:broader <https://trade.ec.europa.eu/def/cn_2012#section_XVIII> ;
+    skos:inScheme <https://trade.ec.europa.eu/def/cn_2012> ;
+    skos:notation "9950 00 00"^^ec:HS6 .
+
+<https://trade.ec.europa.eu/def/cn_2013#cn8_98809000>
+    a skos:Concept ;
+    rdfs:label "Component parts of complete industrial plant in the framework of external trade"@en ;
+    skos:broader <https://trade.ec.europa.eu/def/cn_2013#section_XVIII> ;
+    skos:inScheme <https://trade.ec.europa.eu/def/cn_2013> ;
+    skos:notation "9880 90 00"^^ec:HS6 .
+
+<https://trade.ec.europa.eu/def/cn_2016#cn8_99302700>
+    a skos:Concept ;
+    rdfs:label "Goods delivered to vessels and aircraft - Goods from Chapter 27"@en ;
+    skos:broader <https://trade.ec.europa.eu/def/cn_2016#section_XVIII> ;
+    skos:inScheme <https://trade.ec.europa.eu/def/cn_2016> ;
+    skos:notation "9930 27 00"^^ec:HS6 .
+
